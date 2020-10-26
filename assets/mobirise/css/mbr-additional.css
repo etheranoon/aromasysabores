@@ -7399,6 +7399,42 @@ a {
 .cid-serf2sRbXK .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
+.cid-sexy7RaWiY {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
+}
+.cid-sexy7RaWiY .oldcost {
+  text-decoration: line-through;
+  color: #353535;
+}
+.cid-sexy7RaWiY .currentcost {
+  color: #232323;
+}
+.cid-sexy7RaWiY .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-sexy7RaWiY .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sexy7RaWiY .text-box {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sexy7RaWiY .text-box {
+    padding: 1rem;
+  }
+}
+.cid-sexy7RaWiY .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
 .cid-serf2thr3C {
   padding-top: 0rem;
   padding-bottom: 1rem;
@@ -7844,22 +7880,6 @@ a {
 .cid-sexpJsiEGS img {
   width: 100%;
 }
-.cid-sexpJsyf3R {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sexpJsyf3R .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sexpJsyf3R .row {
-  flex-direction: row-reverse;
-}
-.cid-sexpJsyf3R img {
-  width: 100%;
-}
 .cid-sexpJsM8Ow {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -7889,6 +7909,42 @@ a {
 }
 .cid-sexpJsM8Ow .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-sexxM97R5j {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
+}
+.cid-sexxM97R5j .oldcost {
+  text-decoration: line-through;
+  color: #353535;
+}
+.cid-sexxM97R5j .currentcost {
+  color: #232323;
+}
+.cid-sexxM97R5j .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-sexxM97R5j .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sexxM97R5j .text-box {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sexxM97R5j .text-box {
+    padding: 1rem;
+  }
+}
+.cid-sexxM97R5j .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
 }
 .cid-sexpJtbVcB {
   padding-top: 0rem;
